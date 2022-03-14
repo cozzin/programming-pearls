@@ -4,5 +4,6 @@
         <page name='1 SortWithLibrary'/>
         <page name='2 BitVector'/>
         <page name='3 SortWithBitVector'/>
+        <page name='4 Random'/>
     </pages>
 </playground>
